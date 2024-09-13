@@ -1,0 +1,6 @@
+framework module TGRFramework {
+  umbrella header "TGRFramework.h"
+  export *
+
+  module * { export * }
+}

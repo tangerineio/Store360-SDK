@@ -19,74 +19,62 @@
 @protocol TGRClientDelegate <NSObject>
 
 @optional
-- (void)didEnterWithParams:(NSDictionary * _Null_unspecified)params rssi:(NSNumber * _Null_unspecified)rssi;
-- (void)didExitWithParams:(NSDictionary * _Null_unspecified)params rssi:(NSNumber * _Null_unspecified)rssi;
-- (void)didFailWithErrorType:(TGRErrorType)errorType error:(NSError * _Null_unspecified)error;
-- (void)requestImageWithURL:(NSURL * _Nullable)url completion:(void (^ _Nullable)(UIImage * _Nullable image, NSError * _Nullable error))completionHandler;
-- (void)getURLSchemeinWebview:(NSURLRequest * _Null_unspecified)request;
-- (void)tappedNotificationWithParam:(NSDictionary * _Null_unspecified)action enterFlag:(BOOL)enterFlag beacon:(TGRBeacon * _Null_unspecified)beacon;
-- (void)receiveNotificationParam:(NSDictionary * _Null_unspecified)action beacon:(TGRBeacon * _Null_unspecified)beacon;
-- (void)getBarCodeData:(NSString * _Null_unspecified)BarcodeValue err:(NSError * _Null_unspecified)error;
+//2.1
+- (void)didEnterWithParams:(NSDictionary *)params rssi:(NSNumber *)rssi;
+- (void)didExitWithParams:(NSDictionary *)params rssi:(NSNumber *)rssi;
+- (void)didFailWithErrorType:(TGRErrorType)errorType error:(NSError *)error;
+- (void)requestImageWithURL:(NSURL *)url completion:(void (^)(UIImage *image, NSError *error))completionHandler;
+- (void)getURLSchemeinWebview:(NSURLRequest *)request;
+- (void)tappedNotificationWithParam:(NSDictionary *)action enterFlag:(BOOL)enterFlag beacon:(TGRBeacon *)beacon;
+- (void)receiveNotificationParam:(NSDictionary *)action beacon:(TGRBeacon *)beacon;
+- (void)getBarCodeData:(NSString *)BarcodeValue err:(NSError *)error;
 @end
-
 
 @interface TGRClient : NSObject<CBCentralManagerDelegate>
 
-@property (nonatomic, weak) id<TGRClientDelegate> _Nullable delegate;
-@property (nonatomic, strong) CBCentralManager * _Nonnull centralManager;
-
+@property (nonatomic, weak) id<TGRClientDelegate> delegate;
+@property (nonatomic, strong) CBCentralManager *centralManager;
 
 //init
-- (TGRClient * _Nonnull)initWithOption:(TGRInitOption * _Nonnull)optionForInit delegate:(id<TGRClientDelegate> _Nullable)delegate;
-
+- (TGRClient *)initWithOption:(TGRInitOption*)optionForInit delegate:(id<TGRClientDelegate>) delegate;
 //process
 - (void)startMonitoring;
 - (void)stopMonitoring;
 - (void)logout;
-
 //uuid
-- (NSString * _Nonnull)uniqueIdentifier;
-- (NSString * _Nonnull)refreshHandsetId;
-
+- (NSString *)uniqueIdentifier;
 //log
-- (void)sendAppData:(NSDictionary * _Nonnull)eventData;
+- (void) sendAppData:(NSDictionary *)eventData;
 - (void)sendLogEvent:(TGRLogEvent)eventId;
-- (void)sendAppEvent:(NSString * _Nonnull)event;
-- (void)sendLogEventWithString:(NSString * _Nonnull)eventString;
-- (void)setAppUserId:(NSString * _Nonnull)userId;
-- (void)getNotifications:(NSString * _Nonnull)identifier;
-- (void)removeNotifiedBanner:(NSString * _Nonnull)identifier;
-
-
+- (void)sendAppEvent:(NSString *)event;
+- (void)sendLogEventWithString:(NSString *)eventString;
+- (void)setAppUserId:(NSString *)userId;
+- (void)getNotifications:(NSString *)identifier;
+- (void)removeNotifiedBanner:(NSString *)identifier;
 //Settings
+
 - (void)setNotifyEnable:(BOOL)enable;
-- (void)showAppWebView:(NSString * _Nonnull)url needBack:(BOOL)needBack needClose:(BOOL)needClose viewConfiguration:(NSDictionary * _Nullable)viewConfiguration;
+- (void)showAppWebView:(NSString*)url needBack:(BOOL)needBack needClose:(BOOL)needClose viewConfiguration:(NSDictionary *)viewConfiguration;
 
 //idfa
-//- (NSString *)identifierForAdvertising;
-//- (NSString *)getIDFA;
+- (NSString *)identifierForAdvertising;
+- (NSString *)getIDFA;
 
 //BarScan Request
 -(void)scanBarcode;
 
 //GetCurrentSite
-- (NSDictionary * _Nullable)getCurrentSite;
-- (NSDictionary * _Nullable)getNearbyBeacons;
-- (void)showInStoreButton;
-- (void)hideInStoreButton;
+-(NSDictionary *)getCurrentSite;
+-(void)showInStoreButton;
+-(void)hideInStoreButton;
 
 
 //Handler For App received TGRNotification
-- (void)fromAppReceivedNotification:(UNNotificationResponse * _Nonnull)response;
-
-- (void)openInStoreMenuWithURL:(nullable NSString *)urlString;
+-(void)fromAppReceivedNotification:(UNNotificationResponse *)response;
 
 //GeoFence Operations
 -(void)stopSignificantLocationMonitoring;
 
-//QRcode SDK2.5.0
-- (void)showQrBeacon:(NSString *_Nonnull)url urlSchem:(NSString *_Nonnull)urlSchem;
-- (void)dummySendActionDetail:(NSNumber *_Nonnull)beaconId;
 
 @end
 

@@ -10,19 +10,15 @@
 #import "TGRConstants.h"
 
 @interface TGRInitOption : NSObject
-@property (nonatomic, strong) NSString * _Nonnull devId;
-@property (nonatomic, strong) NSString * _Nonnull appId;
-@property (nonatomic, strong) NSString * _Nonnull serviceId;
+@property (nonatomic ) NSString* devId;
+@property (nonatomic ) NSString* appId;
+@property (nonatomic ) NSString* serviceId;
 @property (nonatomic ) BOOL enableADID;
 @property (nonatomic ) BOOL enableNotify;
 
 @property (nonatomic ) TGRActionType actionType;
 
-- (instancetype _Nonnull )initWithAppId:(NSString * _Nonnull)appId
-                        devId:(NSString * _Nonnull)devId
-                    serviceId:(NSString * _Nonnull)serviceId
-                   enableADID:(BOOL)enableADID
-                 enableNotify:(BOOL)enableNotify;
+- (instancetype)initWithAppId:(NSString*)appId devId:(NSString*)devId serviceId:(NSString*)serviceId enableADID:(BOOL)enableADID enableNotify:(BOOL)enableNotify;
 
 
 @end

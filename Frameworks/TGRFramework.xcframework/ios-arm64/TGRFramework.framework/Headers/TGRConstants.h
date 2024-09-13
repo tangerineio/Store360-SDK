@@ -56,8 +56,7 @@ typedef enum : NSInteger {
     TGRErrorTypeLocation,
     TGRErrorTypeBeacon,
     TGRErrorTypeNoError,
-    TGRErrorTypeRegionMonitoring,
-    TGRErrorTypeOpenInstoreMenu
+    TGRErrorTypeRegionMonitoring
 } TGRErrorType;
 
 #endif

@@ -11,7 +11,7 @@
 
 typedef void (^TGRBeaconManangerDidRangeBeaconsBlockType)(TGRBeaconManager *manager,NSArray *targetTGRBeacons,NSArray *allRangerCLBeacons,NSString * timestampDevice);
 typedef void (^TGRBeaconManangerDidExitBlockType)(TGRBeaconManager *manager,NSArray *beacons,NSString * timestampDevice);
-typedef void (^TGRBeaconManangerFindBeaconsBlockType)(TGRBeaconManager *manager, NSArray *beacons, TGRBeacon *newBeacon, NSString *tsBeaconDetection);
+typedef void (^TGRBeaconManangerFindBeaconsBlockType)(TGRBeaconManager *manager, NSArray *beacons, TGRBeacon *newBeacon);
 typedef void (^TGRBeaconManangerUpdateSuccessBlockType)(TGRBeaconManager *manager, TGRBeacon *beacon);
 typedef void (^TGRBeaconManangerUpdateFailedBlockType)(TGRBeaconManager *manager, TGRBeacon *beacon, NSError *error);
 typedef void (^TGRBeaconManangerConnectSuccessBlockType)(TGRBeaconManager *manager, TGRBeacon *beacon);

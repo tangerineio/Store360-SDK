@@ -10,15 +10,15 @@
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRBeaconManager.h</key>
 		<data>
-		RNYzysyqUYpGWmi13uzDzM/RLsI=
+		8gyNXoq8ePtFjxrGR2MABQcVY1A=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRClient.h</key>
 		<data>
-		jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+		1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRConstants.h</key>
 		<data>
-		Dss917YqT59l41ntrFLKKsNkNyY=
+		8gq3V1DdH+KcadaTIVcE+cAXypc=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRFramework.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRInitOption.h</key>
 		<data>
-		suwwmA6+qLXF3adJopQrpcGrk6w=
+		L3tjWikRrO7up9Nz+7T2dbdpCVk=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Headers/Tangerine.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Info.plist</key>
 		<data>
-		4VtrT+g9g6qISlIcBdqna+FbiQw=
+		E9p57WMBHhHtZ1T6agJrkbuRItQ=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/TGRFramework.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+		cdZSBnCWYK1RIsKlE0tRHszuOX4=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/TGRAdWindow_close_button.png</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64/TGRFramework.framework/TGRFramework</key>
 		<data>
-		Wc3tF2L3Co2g6BvCy54fqLHiemA=
+		EKW1bWJIuHbaBbvcRKT2cUjul9s=
 		</data>
 		<key>ios-arm64/TGRFramework.framework/btn__bk_back.png</key>
 		<data>
@@ -106,15 +106,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRBeaconManager.h</key>
 		<data>
-		RNYzysyqUYpGWmi13uzDzM/RLsI=
+		8gyNXoq8ePtFjxrGR2MABQcVY1A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRClient.h</key>
 		<data>
-		jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+		1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRConstants.h</key>
 		<data>
-		Dss917YqT59l41ntrFLKKsNkNyY=
+		8gq3V1DdH+KcadaTIVcE+cAXypc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRFramework.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRInitOption.h</key>
 		<data>
-		suwwmA6+qLXF3adJopQrpcGrk6w=
+		L3tjWikRrO7up9Nz+7T2dbdpCVk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/Tangerine.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Info.plist</key>
 		<data>
-		Cux2lWN6O2Y7rxo524c35XjpfBI=
+		A2gCIo96+2NP2bNYZjguTPEVDp0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+		cdZSBnCWYK1RIsKlE0tRHszuOX4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/TGRAdWindow_close_button.png</key>
 		<data>
@@ -186,11 +186,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/TGRFramework</key>
 		<data>
-		BPZHEhNtAV2HD+wtVr3IXFUG4V8=
+		OpvJLBYlceI2jyFhN0OJnw7fm64=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		VSeYxIzea8ok3zolUTiSNxP7tQA=
+		CD49mzdQgf7In56Z8y9wI25fTQg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/btn__bk_back.png</key>
 		<data>
@@ -218,33 +218,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RNYzysyqUYpGWmi13uzDzM/RLsI=
+			8gyNXoq8ePtFjxrGR2MABQcVY1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			VwCWvSC2cUmgWm0rrbVRzWD1dhbwQ70//7i33IOzrOw=
+			TXLErTaKM5Densy8HAzZ9ZwRBc+WR7to4BLP8noy/ac=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+			1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ff+59AAERIAmq63AE4JqFyqTlwsjYI16h7zp0Crow4E=
+			RfKL/LqkMMe6O7lVM94XfN2oBzdMZkp1sA4lpIlebYM=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dss917YqT59l41ntrFLKKsNkNyY=
+			8gq3V1DdH+KcadaTIVcE+cAXypc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dlY6X9fEZkg9lHlKl7mxm8cKQqmUipyPSoxGe0Rma6E=
+			JnJBKo+v6v9yt0YySvA36gUGpo0s35E3yJlR0XpePv0=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/Headers/TGRFramework.h</key>
@@ -262,11 +262,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			suwwmA6+qLXF3adJopQrpcGrk6w=
+			L3tjWikRrO7up9Nz+7T2dbdpCVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/GFmPhEH7e8KzwhMzOa/SFGcNEG93jecR8y3jS0HvUY=
+			bXhgnFCRxcaUMkHFO5mqUUwLAjO30EHp6tet9xThOUs=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/Headers/Tangerine.h</key>
@@ -284,11 +284,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4VtrT+g9g6qISlIcBdqna+FbiQw=
+			E9p57WMBHhHtZ1T6agJrkbuRItQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ieP4ZUPAAyKB7dPoWK4oDukDUSG7G9tzceXahC91Fc4=
+			LaiHYtJ5IKEbG+nxUxlzhvHHpYn8tGe6SB5CrOkr708=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/Modules/module.modulemap</key>
@@ -306,11 +306,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+			cdZSBnCWYK1RIsKlE0tRHszuOX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFsQz1dzJMWcWc3gS5rDFCJIPh4Kz+Ihy/ELtdmQJmo=
+			Q3GFC/wZN/o1aRygQ0lgrns3ogFU0a0LJ+DUlhL+3UE=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/TGRAdWindow_close_button.png</key>
@@ -438,11 +438,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wc3tF2L3Co2g6BvCy54fqLHiemA=
+			EKW1bWJIuHbaBbvcRKT2cUjul9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			qS/1g9PSQhtrOu4SalLaflMFb9apVMO9t2V3TEb0YWY=
+			S5+rtsrr4FQe10Y+JgOZG/WgmB4LYbLnMVxAp6aGC2U=
 			</data>
 		</dict>
 		<key>ios-arm64/TGRFramework.framework/btn__bk_back.png</key>
@@ -482,33 +482,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RNYzysyqUYpGWmi13uzDzM/RLsI=
+			8gyNXoq8ePtFjxrGR2MABQcVY1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			VwCWvSC2cUmgWm0rrbVRzWD1dhbwQ70//7i33IOzrOw=
+			TXLErTaKM5Densy8HAzZ9ZwRBc+WR7to4BLP8noy/ac=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+			1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ff+59AAERIAmq63AE4JqFyqTlwsjYI16h7zp0Crow4E=
+			RfKL/LqkMMe6O7lVM94XfN2oBzdMZkp1sA4lpIlebYM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dss917YqT59l41ntrFLKKsNkNyY=
+			8gq3V1DdH+KcadaTIVcE+cAXypc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dlY6X9fEZkg9lHlKl7mxm8cKQqmUipyPSoxGe0Rma6E=
+			JnJBKo+v6v9yt0YySvA36gUGpo0s35E3yJlR0XpePv0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/TGRFramework.h</key>
@@ -526,11 +526,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			suwwmA6+qLXF3adJopQrpcGrk6w=
+			L3tjWikRrO7up9Nz+7T2dbdpCVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/GFmPhEH7e8KzwhMzOa/SFGcNEG93jecR8y3jS0HvUY=
+			bXhgnFCRxcaUMkHFO5mqUUwLAjO30EHp6tet9xThOUs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Headers/Tangerine.h</key>
@@ -548,11 +548,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Cux2lWN6O2Y7rxo524c35XjpfBI=
+			A2gCIo96+2NP2bNYZjguTPEVDp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Gk0lcXRWxiXc6jBnOjvZcBSl/gaKPHAW5uiwqmf6oI=
+			kQivu10WtcMZsCktyS3h/+wKt+PijT4Jgc2Zegdme1Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/Modules/module.modulemap</key>
@@ -570,11 +570,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+			cdZSBnCWYK1RIsKlE0tRHszuOX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFsQz1dzJMWcWc3gS5rDFCJIPh4Kz+Ihy/ELtdmQJmo=
+			Q3GFC/wZN/o1aRygQ0lgrns3ogFU0a0LJ+DUlhL+3UE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/TGRAdWindow_close_button.png</key>
@@ -702,22 +702,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BPZHEhNtAV2HD+wtVr3IXFUG4V8=
+			OpvJLBYlceI2jyFhN0OJnw7fm64=
 			</data>
 			<key>hash2</key>
 			<data>
-			f+ISj4DpXryD2mxu4AtcgaF/USTE6IrZNoLPZVGdetA=
+			WLOkf0FQgcr1kQXYYJWQKUulon1Wwp1ekLK3d2/mxz4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VSeYxIzea8ok3zolUTiSNxP7tQA=
+			CD49mzdQgf7In56Z8y9wI25fTQg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7z1ylAvp5ZTM6Qi/Av3C9WYSSkTQUWS5ttBirEVxWmo=
+			CCF52LuuEBWcc6jlD/+5Z69tfAR0xHzrDAhgpnQmC7Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TGRFramework.framework/btn__bk_back.png</key>

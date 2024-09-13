@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/TGRBeaconManager.h</key>
 		<data>
-		RNYzysyqUYpGWmi13uzDzM/RLsI=
+		8gyNXoq8ePtFjxrGR2MABQcVY1A=
 		</data>
 		<key>Headers/TGRClient.h</key>
 		<data>
-		jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+		1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 		</data>
 		<key>Headers/TGRConstants.h</key>
 		<data>
-		Dss917YqT59l41ntrFLKKsNkNyY=
+		8gq3V1DdH+KcadaTIVcE+cAXypc=
 		</data>
 		<key>Headers/TGRFramework.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/TGRInitOption.h</key>
 		<data>
-		suwwmA6+qLXF3adJopQrpcGrk6w=
+		L3tjWikRrO7up9Nz+7T2dbdpCVk=
 		</data>
 		<key>Headers/Tangerine.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Cux2lWN6O2Y7rxo524c35XjpfBI=
+		A2gCIo96+2NP2bNYZjguTPEVDp0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+		cdZSBnCWYK1RIsKlE0tRHszuOX4=
 		</data>
 		<key>TGRAdWindow_close_button.png</key>
 		<data>
@@ -114,33 +114,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RNYzysyqUYpGWmi13uzDzM/RLsI=
+			8gyNXoq8ePtFjxrGR2MABQcVY1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			VwCWvSC2cUmgWm0rrbVRzWD1dhbwQ70//7i33IOzrOw=
+			TXLErTaKM5Densy8HAzZ9ZwRBc+WR7to4BLP8noy/ac=
 			</data>
 		</dict>
 		<key>Headers/TGRClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBuKTBwRDgy3P0yDzfuvx2MPR3g=
+			1JAGuGFtFBzJ7AdTmH/YqzG+HQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ff+59AAERIAmq63AE4JqFyqTlwsjYI16h7zp0Crow4E=
+			RfKL/LqkMMe6O7lVM94XfN2oBzdMZkp1sA4lpIlebYM=
 			</data>
 		</dict>
 		<key>Headers/TGRConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dss917YqT59l41ntrFLKKsNkNyY=
+			8gq3V1DdH+KcadaTIVcE+cAXypc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dlY6X9fEZkg9lHlKl7mxm8cKQqmUipyPSoxGe0Rma6E=
+			JnJBKo+v6v9yt0YySvA36gUGpo0s35E3yJlR0XpePv0=
 			</data>
 		</dict>
 		<key>Headers/TGRFramework.h</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			suwwmA6+qLXF3adJopQrpcGrk6w=
+			L3tjWikRrO7up9Nz+7T2dbdpCVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/GFmPhEH7e8KzwhMzOa/SFGcNEG93jecR8y3jS0HvUY=
+			bXhgnFCRxcaUMkHFO5mqUUwLAjO30EHp6tet9xThOUs=
 			</data>
 		</dict>
 		<key>Headers/Tangerine.h</key>
@@ -191,11 +191,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZpI6lgXlxIZ+Ubzig2DQnzH/bUE=
+			cdZSBnCWYK1RIsKlE0tRHszuOX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFsQz1dzJMWcWc3gS5rDFCJIPh4Kz+Ihy/ELtdmQJmo=
+			Q3GFC/wZN/o1aRygQ0lgrns3ogFU0a0LJ+DUlhL+3UE=
 			</data>
 		</dict>
 		<key>TGRAdWindow_close_button.png</key>

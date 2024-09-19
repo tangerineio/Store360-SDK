@@ -4,7 +4,10 @@ Pod::Spec.new do |s|
   s.summary      = 'TGRFramework provides advanced UI components and network tools for iOS applications.'  # 短い説明
   s.description  = 'TGRFramework provides advanced UI components and network tools for iOS applications.'  # 詳細な説明
   s.homepage     = 'https://github.com/tangerineio/Store360-SDK'  # ライブラリのホームページ
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }  # ライセンス情報
+  s.license      = {
+        type: 'Copyright',
+        text: '(c) 2015 Repro Inc.'
+    }  # ライセンス情報
   s.author       = { 'YourName' => 'your.email@example.com' }  # 作者の名前とメールアドレス
   s.source       = { :git => 'https://github.com/tangerineio/Store360-SDK.git', :tag => s.version.to_s }  # ソースコードのURLとタグ
 

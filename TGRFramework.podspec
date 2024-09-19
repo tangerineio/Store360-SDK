@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'TGRFramework'  # ライブラリの名前
   s.version      = '2.4.4'         # バージョン番号
   s.summary      = 'TGRFramework provides advanced UI components and network tools for iOS applications.'  # 短い説明
-  s.description  = 'TGRFramework provides advanced UI components and network tools for iOS applications.'  # 詳細な説明
+  s.description  = 'TGRFramework provides advanced UI components and network tools for iOS applications for iOS applications for iOS applications.'  # 詳細な説明
   s.homepage     = 'https://github.com/tangerineio/Store360-SDK'  # ライブラリのホームページ
   s.license      = {
         type: 'Copyright',

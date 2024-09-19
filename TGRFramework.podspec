@@ -10,7 +10,4 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '13.0'  # 対応するプラットフォームとバージョン
   s.vendored_frameworks = 'Frameworks/TGRFramework.xcframework'  # バイナリフレームワークのパス
-
-  # 必要に応じて依存関係を追加
-  # s.dependency 'AnotherFramework', '~> 2.0'
 end

@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/tangerineio/Store360-SDK'  # ライブラリのホームページ
   s.license      = {
         type: 'Copyright',
-        text: '(c) 2015 Repro Inc.'
+        text: '(c) 2024 tangerine Inc.'
     }  # ライセンス情報
   s.author       = { 'YourName' => 'your.email@example.com' }  # 作者の名前とメールアドレス
   s.source       = { :git => 'https://github.com/tangerineio/Store360-SDK.git', :tag => s.version.to_s }  # ソースコードのURLとタグ
